@@ -1,6 +1,6 @@
 {
-  "atualizado_em": "2026-06-16T19:29:56.125942+00:00",
-  "total_registros": 122,
+  "atualizado_em": "2026-06-16T22:00:05.987410+00:00",
+  "total_registros": 123,
   "dados": [
     {
       "assunto": "RODOVIÁRIO CAMILO DOS SANTOS FILHO LTDA",
@@ -14,7 +14,7 @@
     {
       "assunto": "Distrato PJ 2026 - EDNEIA DE SOUZA SERVICOS LTDA",
       "categoria": "Prestador PJ",
-      "status": "Concluído",
+      "status": "Anulado",
       "enviado": "2026-06-09T06:41:39",
       "concluido": "2026-06-12T06:43:17",
       "dias": 3.001388888888889,
@@ -1090,6 +1090,15 @@
       "concluido": null,
       "dias": null,
       "dentro48": false
+    },
+    {
+      "assunto": "49.653.859 VICTORIA CASSIA DA SILVA",
+      "categoria": "Prestador PJ",
+      "status": "Concluído",
+      "enviado": "2026-01-05T11:14:10",
+      "concluido": "2026-01-06T17:29:07",
+      "dias": 1.2604166666666667,
+      "dentro48": true
     },
     {
       "assunto": "49.653.859 VICTORIA CASSIA DA SILVA",
