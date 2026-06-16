@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-06-16T18:29:08.114243Z",
+  "atualizado_em": "2026-06-16T19:29:56.125942+00:00",
   "total_registros": 122,
   "dados": [
     {
@@ -1085,7 +1085,7 @@
     {
       "assunto": "63.556.002 PEDRO PEREIRA SANTOS JUNIOR",
       "categoria": "Prestador PJ",
-      "status": "Anulado",
+      "status": "Concluído",
       "enviado": "2026-01-07T11:43:01",
       "concluido": null,
       "dias": null,
