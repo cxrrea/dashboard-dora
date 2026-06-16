@@ -1,0 +1,50 @@
+name: Atualizar dashboard SLA
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '*/15 * * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout do repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Instalar dependencias
+        run: pip install pandas openpyxl
+
+      - name: Baixar planilha do OneDrive/SharePoint
+        env:
+          ONEDRIVE_FILE_URL: ${{ secrets.ONEDRIVE_FILE_URL }}
+        run: |
+          set -e
+          if [ -z "$ONEDRIVE_FILE_URL" ]; then
+            echo "Erro: configure o secret ONEDRIVE_FILE_URL nas configuracoes do repositorio (Settings > Secrets and variables > Actions)."
+            exit 1
+          fi
+
+          python3 scripts/download_xlsx.py "$ONEDRIVE_FILE_URL" relatorio.xlsx
+
+          python3 -c "import zipfile,sys; sys.exit(0 if zipfile.is_zipfile('relatorio.xlsx') else 1)" \
+            || { echo "Erro: o arquivo baixado nao e um .xlsx valido. Verifique se o link de compartilhamento continua ativo e configurado como 'qualquer pessoa com o link'."; exit 1; }
+
+      - name: Gerar dados.json
+        run: python3 scripts/process_excel.py relatorio.xlsx dados.json
+
+      - name: Publicar alteracoes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add dados.json
+          git diff --staged --quiet && echo "Nenhuma alteracao nos dados." || git commit -m "Atualiza dados do dashboard ($(date -u +'%Y-%m-%d %H:%M UTC'))"
+          git push

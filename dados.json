@@ -1,0 +1,1104 @@
+{
+  "atualizado_em": "2026-06-16T18:29:08.114243Z",
+  "total_registros": 122,
+  "dados": [
+    {
+      "assunto": "RODOVIÁRIO CAMILO DOS SANTOS FILHO LTDA",
+      "categoria": "Cliente",
+      "status": "Enviado",
+      "enviado": "2026-06-10T06:52:48",
+      "concluido": null,
+      "dias": null,
+      "dentro48": false
+    },
+    {
+      "assunto": "Distrato PJ 2026 - EDNEIA DE SOUZA SERVICOS LTDA",
+      "categoria": "Prestador PJ",
+      "status": "Concluído",
+      "enviado": "2026-06-09T06:41:39",
+      "concluido": "2026-06-12T06:43:17",
+      "dias": 3.001388888888889,
+      "dentro48": false
+    },
+    {
+      "assunto": "1º aditivo - 38.430.817 WALLACE SILVA ARAUJO",
+      "categoria": "Prestador PJ",
+      "status": "Concluído",
+      "enviado": "2026-06-08T10:27:20",
+      "concluido": "2026-06-12T06:42:19",
+      "dias": 3.84375,
+      "dentro48": false
+    },
+    {
+      "assunto": "1º aditivo - 59.979.345 ANA VITORIA DOS SANTOS RAMOS",
+      "categoria": "Prestador PJ",
+      "status": "Concluído",
+      "enviado": "2026-06-03T11:52:31",
+      "concluido": "2026-06-12T06:40:56",
+      "dias": 8.784027777777778,
+      "dentro48": false
+    },
+    {
+      "assunto": "31.266.025 JESSICA ALVES MICHELAZZO",
+      "categoria": "Prestador PJ",
+      "status": "Enviado",
+      "enviado": "2026-06-03T11:14:44",
+      "concluido": null,
+      "dias": null,
+      "dentro48": false
+    },
+    {
+      "assunto": "67.087.995 JONATHAN DOS SANTOS FEITOZA.pdf",
+      "categoria": "Prestador PJ",
+      "status": "Concluído",
+      "enviado": "2026-06-01T11:43:27",
+      "concluido": "2026-06-12T06:41:23",
+      "dias": 10.790277777777778,
+      "dentro48": false
+    },
+    {
+      "assunto": "67.061.278 MATHEUS RODRIGUES FERREIRA",
+      "categoria": "Prestador PJ",
+      "status": "Concluído",
+      "enviado": "2026-05-29T12:36:13",
+      "concluido": "2026-06-12T06:38:01",
+      "dias": 13.751388888888888,
+      "dentro48": false
+    },
+    {
+      "assunto": "EDNEIA DE SOUZA SERVICOS LTDA",
+      "categoria": "Prestador PJ",
+      "status": "Concluído",
+      "enviado": "2026-05-29T12:32:16",
+      "concluido": "2026-06-09T10:13:15",
+      "dias": 10.903472222222222,
+      "dentro48": false
+    },
+    {
+      "assunto": "Distrato PJ 2026 - 65.843.808 MAYARA COSTA DOS SANTOS",
+      "categoria": "Prestador PJ",
+      "status": "Concluído",
+      "enviado": "2026-05-28T05:53:30",
+      "concluido": "2026-05-31T14:10:05",
+      "dias": 3.345138888888889,
+      "dentro48": false
+    },
+    {
+      "assunto": "Distrato PJ 2026 - 61.601.132 INGRID RAQUEL RODRIGUES NEIVA",
+      "categoria": "Prestador PJ",
+      "status": "Concluído",
+      "enviado": "2026-05-28T05:52:14",
+      "concluido": "2026-06-09T10:14:12",
+      "dias": 12.181944444444444,
+      "dentro48": false
+    },
+    {
+      "assunto": "Distrato PJ 2026 - 65.915.517 THIAGO PEREIRA GOMES",
+      "categoria": "Prestador PJ",
+      "status": "Concluído",
+      "enviado": "2026-05-26T06:01:22",
+      "concluido": "2026-05-27T06:38:43",
+      "dias": 1.0263888888888888,
+      "dentro48": true
+    },
+    {
+      "assunto": "EDNEIA DE SOUZA",
+      "categoria": "Prestador PJ",
+      "status": "Concluído",
+      "enviado": "2026-05-22T06:28:04",
+      "concluido": "2026-05-26T07:53:01",
+      "dias": 4.059027777777778,
+      "dentro48": false
+    },
+    {
+      "assunto": "Distrato PJ 2026 - LUANA COLTRE PLACIDINO",
+      "categoria": "Prestador PJ",
+      "status": "Concluído",
+      "enviado": "2026-05-22T05:06:13",
+      "concluido": "2026-06-10T12:22:45",
+      "dias": 19.303472222222222,
+      "dentro48": false
+    },
+    {
+      "assunto": "Distrato PJ 2026 - 63.271.137 LUANA PATRICIA DE OLIVEIRA MOURA",
+      "categoria": "Prestador PJ",
+      "status": "Concluído",
+      "enviado": "2026-05-19T10:57:29",
+      "concluido": "2026-05-26T07:52:08",
+      "dias": 6.871527777777778,
+      "dentro48": false
+    },
+    {
+      "assunto": "Distrato PJ 2026 - 66.532.053 VALBER ARAUJO FILHO",
+      "categoria": "Prestador PJ",
+      "status": "Concluído",
+      "enviado": "2026-05-19T10:45:17",
+      "concluido": "2026-05-21T12:14:06",
+      "dias": 2.0618055555555554,
+      "dentro48": false
+    },
+    {
+      "assunto": "66.743.459 RAYSSA DOS SANTOS RODOLFO",
+      "categoria": "Prestador PJ",
+      "status": "Concluído",
+      "enviado": "2026-05-14T09:21:00",
+      "concluido": "2026-05-26T07:51:29",
+      "dias": 11.938194444444443,
+      "dentro48": false
+    },
+    {
+      "assunto": "FARMACE - INDUSTRIA QUIMICO-FARMACEUTICA CEARENSE LTDA, Propo...",
+      "categoria": "Cliente",
+      "status": "Concluído",
+      "enviado": "2026-05-14T06:27:07",
+      "concluido": "2026-05-26T07:54:36",
+      "dias": 12.06111111111111,
+      "dentro48": false
+    },
+    {
+      "assunto": "Distrato PJ 2026 - SILVANO FONTANA SERVICOS ADMINISTRATIVOS LTDA",
+      "categoria": "Prestador PJ",
+      "status": "Concluído",
+      "enviado": "2026-05-12T13:51:00",
+      "concluido": "2026-05-21T12:14:32",
+      "dias": 8.933333333333334,
+      "dentro48": false
+    },
+    {
+      "assunto": "Distrato PJ 2026 - 62810617 ISABELA DOS SANTOS CAMPOS",
+      "categoria": "Prestador PJ",
+      "status": "Concluído",
+      "enviado": "2026-05-07T11:05:33",
+      "concluido": "2026-05-27T07:34:49",
+      "dias": 19.854166666666664,
+      "dentro48": false
+    },
+    {
+      "assunto": "2026.05.06_-_1_aditivo_-_CARLOS DONIZETI VARONI JUNIOR",
+      "categoria": "Prestador PJ",
+      "status": "Concluído",
+      "enviado": "2026-05-06T09:14:45",
+      "concluido": "2026-05-27T07:32:09",
+      "dias": 20.929166666666667,
+      "dentro48": false
+    },
+    {
+      "assunto": "Complete com a Docusign: Distrato PJ 2026 - 64.344.196 ERIC BATISTA DOS SANTOS",
+      "categoria": "Prestador PJ",
+      "status": "Concluído",
+      "enviado": "2026-05-05T10:54:40",
+      "concluido": "2026-05-21T12:15:49",
+      "dias": 16.056944444444447,
+      "dentro48": false
+    },
+    {
+      "assunto": "Distrato PJ 2026 - 57.583.113 ADRIANO ALEXANDRE DA SILVA.",
+      "categoria": "Prestador PJ",
+      "status": "Concluído",
+      "enviado": "2026-05-05T07:27:40",
+      "concluido": "2026-05-26T07:50:26",
+      "dias": 21.01597222222222,
+      "dentro48": false
+    },
+    {
+      "assunto": "Distrato PJ 2026 - 57.583.113 ADRIANO ALEXANDRE DA SILVA.",
+      "categoria": "Prestador PJ",
+      "status": "Anulado",
+      "enviado": "2026-05-04T13:32:52",
+      "concluido": null,
+      "dias": null,
+      "dentro48": false
+    },
+    {
+      "assunto": "Complete com a Docusign: Distrato PJ 2026 - 66.056.378 JAKELINE APARECIDA DE CAMARGO ROMA",
+      "categoria": "Prestador PJ",
+      "status": "Concluído",
+      "enviado": "2026-05-04T13:31:07",
+      "concluido": "2026-05-21T12:15:19",
+      "dias": 16.947916666666668,
+      "dentro48": false
+    },
+    {
+      "assunto": "66.532.053 VALBER ARAUJO FILHO",
+      "categoria": "Prestador PJ",
+      "status": "Concluído",
+      "enviado": "2026-04-30T14:02:59",
+      "concluido": "2026-05-26T07:43:46",
+      "dias": 25.736805555555556,
+      "dentro48": false
+    },
+    {
+      "assunto": "Distrato PJ 2026 - VANDERLEI JOSE MOSQUETTO JUNIOR",
+      "categoria": "Prestador PJ",
+      "status": "Enviado",
+      "enviado": "2026-04-30T10:56:55",
+      "concluido": null,
+      "dias": null,
+      "dentro48": false
+    },
+    {
+      "assunto": "54.745.135 ERICK LUZ DA PAZ",
+      "categoria": "Prestador PJ",
+      "status": "Concluído",
+      "enviado": "2026-04-28T09:42:02",
+      "concluido": "2026-04-30T11:02:28",
+      "dias": 2.05625,
+      "dentro48": false
+    },
+    {
+      "assunto": "Victor Hugo Ferreira do Nascimento",
+      "categoria": "Prestador PJ",
+      "status": "Concluído",
+      "enviado": "2026-04-28T09:31:51",
+      "concluido": "2026-05-04T10:18:16",
+      "dias": 6.032638888888889,
+      "dentro48": false
+    },
+    {
+      "assunto": "66.319.822 ENZO YUKIO GIMENES ISHIHARA",
+      "categoria": "Prestador PJ",
+      "status": "Concluído",
+      "enviado": "2026-04-17T07:19:28",
+      "concluido": "2026-04-29T11:44:42",
+      "dias": 12.184722222222222,
+      "dentro48": false
+    },
+    {
+      "assunto": "66.304.662 HICARO HENRIQUE FABOCI",
+      "categoria": "Prestador PJ",
+      "status": "Concluído",
+      "enviado": "2026-04-17T07:16:33",
+      "concluido": "2026-04-29T11:45:25",
+      "dias": 12.186805555555555,
+      "dentro48": false
+    },
+    {
+      "assunto": "Distrato PJ 2026 - 59.472.411 EMANUELLE RAVELLI DA SILVA MOCO",
+      "categoria": "Prestador PJ",
+      "status": "Concluído",
+      "enviado": "2026-04-16T10:38:43",
+      "concluido": "2026-04-29T11:44:05",
+      "dias": 13.045833333333333,
+      "dentro48": false
+    },
+    {
+      "assunto": "Acordo_Agente__Comercial_MeuChapa_Andre Biancardini",
+      "categoria": "Agente Comercial",
+      "status": "Concluído",
+      "enviado": "2026-04-09T11:24:37",
+      "concluido": "2026-04-20T09:03:26",
+      "dias": 10.902083333333334,
+      "dentro48": false
+    },
+    {
+      "assunto": "Acordo_Agente__Comercial_MeuChapa_Preenc - IVAN PACHECO",
+      "categoria": "Agente Comercial",
+      "status": "Concluído",
+      "enviado": "2026-04-09T11:22:12",
+      "concluido": "2026-04-20T09:04:01",
+      "dias": 10.904166666666667,
+      "dentro48": false
+    },
+    {
+      "assunto": "Acordo_Agente__Comercial_MeuChapa_Salomão_BIKO, Planilha Farol Pr...",
+      "categoria": "Agente Comercial",
+      "status": "Concluído",
+      "enviado": "2026-04-09T09:44:04",
+      "concluido": "2026-04-10T12:03:41",
+      "dias": 1.097222222222222,
+      "dentro48": true
+    },
+    {
+      "assunto": "2026.07.04- 1º aditivo - 66.056.378 JAKELINE APARECIDA DE CAMARGO ROMA...",
+      "categoria": "Prestador PJ",
+      "status": "Concluído",
+      "enviado": "2026-04-07T05:28:26",
+      "concluido": "2026-05-22T09:59:50",
+      "dias": 45.18888888888889,
+      "dentro48": false
+    },
+    {
+      "assunto": "Distrato PJ 2026 - D.F LEITE SERVICOS ADMINISTRATIVOS LTDA",
+      "categoria": "Prestador PJ",
+      "status": "Concluído",
+      "enviado": "2026-04-01T12:32:15",
+      "concluido": "2026-04-07T05:42:10",
+      "dias": 5.715277777777778,
+      "dentro48": false
+    },
+    {
+      "assunto": "Minuta_Contrato_MeuChapa_ - REV JUR TRIUNFANTE 1903 (1) (1), ADIT...",
+      "categoria": "Cliente",
+      "status": "Concluído",
+      "enviado": "2026-04-01T12:03:27",
+      "concluido": "2026-04-07T10:49:32",
+      "dias": 5.949305555555556,
+      "dentro48": false
+    },
+    {
+      "assunto": "Proposta_Farmace_190126V1.pdf,FARMACE - INDUSTRIA QUIMICO-FARMACE...",
+      "categoria": "Cliente",
+      "status": "Anulado",
+      "enviado": "2026-04-01T11:44:25",
+      "concluido": null,
+      "dias": null,
+      "dentro48": false
+    },
+    {
+      "assunto": "57.583.113 ADRIANO ALEXANDRE DA SILVA",
+      "categoria": "Prestador PJ",
+      "status": "Concluído",
+      "enviado": "2026-03-26T07:47:10",
+      "concluido": "2026-04-28T11:12:12",
+      "dias": 33.143055555555556,
+      "dentro48": false
+    },
+    {
+      "assunto": "65.915.517 THIAGO PEREIRA GOMES",
+      "categoria": "Prestador PJ",
+      "status": "Concluído",
+      "enviado": "2026-03-26T07:22:47",
+      "concluido": "2026-04-30T07:43:22",
+      "dias": 35.014583333333334,
+      "dentro48": false
+    },
+    {
+      "assunto": "65.843.808 MAYARA COSTA DOS SANTOS",
+      "categoria": "Prestador PJ",
+      "status": "Concluído",
+      "enviado": "2026-03-26T07:20:17",
+      "concluido": "2026-04-30T11:04:40",
+      "dias": 35.15625,
+      "dentro48": false
+    },
+    {
+      "assunto": "TRANS-AMPARENSE LTDA, Proposta MeuChapa - Trans Amparense.pdf",
+      "categoria": "Cliente",
+      "status": "Enviado",
+      "enviado": "2026-03-19T04:27:44",
+      "concluido": null,
+      "dias": null,
+      "dentro48": false
+    },
+    {
+      "assunto": "FARMACE - INDUSTRIA QUIMICO-FARMACEUTICA CEARENSE LTDA, Propo...",
+      "categoria": "Cliente",
+      "status": "Anulado",
+      "enviado": "2026-03-19T04:14:51",
+      "concluido": null,
+      "dias": null,
+      "dentro48": false
+    },
+    {
+      "assunto": "JEREMIAH WIJNGAARDE",
+      "categoria": "Prestador PJ",
+      "status": "Concluído",
+      "enviado": "2026-03-16T12:32:53",
+      "concluido": "2026-04-07T05:41:16",
+      "dias": 21.714583333333334,
+      "dentro48": false
+    },
+    {
+      "assunto": "-CLEYTON PEREIRA ANTONIO SCIOLI 41371112860",
+      "categoria": "Prestador PJ",
+      "status": "Anulado",
+      "enviado": "2026-03-12T11:42:14",
+      "concluido": null,
+      "dias": null,
+      "dentro48": false
+    },
+    {
+      "assunto": "BRENEX, Proposta MeuChapa - Grupo Brenex.pdf",
+      "categoria": "Cliente",
+      "status": "Concluído",
+      "enviado": "2026-03-11T07:57:44",
+      "concluido": "2026-03-19T12:47:47",
+      "dias": 8.202083333333333,
+      "dentro48": false
+    },
+    {
+      "assunto": "BRENEX, Proposta MeuChapa - Grupo Brenex.pdf",
+      "categoria": "Cliente",
+      "status": "Anulado",
+      "enviado": "2026-03-11T07:46:06",
+      "concluido": null,
+      "dias": null,
+      "dentro48": false
+    },
+    {
+      "assunto": "1º aditivo -   62.614.247 GUILHERME HENRIQUE DUTRA DA SILV...",
+      "categoria": "Prestador PJ",
+      "status": "Concluído",
+      "enviado": "2026-03-06T03:47:38",
+      "concluido": "2026-03-11T10:56:26",
+      "dias": 5.25625,
+      "dentro48": false
+    },
+    {
+      "assunto": "1º aditivo -   62.614.247 GUILHERME HENRIQUE DUTRA DA SILV...",
+      "categoria": "Prestador PJ",
+      "status": "Anulado",
+      "enviado": "2026-03-05T10:48:55",
+      "concluido": null,
+      "dias": null,
+      "dentro48": false
+    },
+    {
+      "assunto": "Distrato PJ 2026 - WILLIAM AUGUSTO SILVA OLIVEIRA",
+      "categoria": "Prestador PJ",
+      "status": "Concluído",
+      "enviado": "2026-03-05T09:15:16",
+      "concluido": "2026-03-19T12:48:07",
+      "dias": 14.106250000000001,
+      "dentro48": false
+    },
+    {
+      "assunto": "Distrato PJ 2026 - 64.077.736 JACKSON AMORIM DOS SANTOS",
+      "categoria": "Prestador PJ",
+      "status": "Concluído",
+      "enviado": "2026-03-04T05:04:47",
+      "concluido": "2026-03-04T12:05:18",
+      "dias": 0.2923611111111111,
+      "dentro48": true
+    },
+    {
+      "assunto": "VANDERLEI JOSE MOSQUETTO JUNIOR",
+      "categoria": "Prestador PJ",
+      "status": "Concluído",
+      "enviado": "2026-03-03T04:01:20",
+      "concluido": "2026-04-09T12:12:12",
+      "dias": 37.299305555555556,
+      "dentro48": false
+    },
+    {
+      "assunto": "Proposta MeuChapa - CargoLift - Descarga Própria v2.pdf,  CARGOLI...",
+      "categoria": "Cliente",
+      "status": "Concluído",
+      "enviado": "2026-02-26T10:39:32",
+      "concluido": "2026-04-01T10:50:28",
+      "dias": 33.96597222222223,
+      "dentro48": false
+    },
+    {
+      "assunto": "Sunnyeggs, Proposta MeuChapa - Sunny Eggs.pdf",
+      "categoria": "Cliente",
+      "status": "Anulado",
+      "enviado": "2026-02-26T07:08:31",
+      "concluido": null,
+      "dias": null,
+      "dentro48": false
+    },
+    {
+      "assunto": "Distrato PJ 2026 - 60.332.857 FELIPE BALIEIRO DE ALMEIDA",
+      "categoria": "Prestador PJ",
+      "status": "Concluído",
+      "enviado": "2026-02-25T10:10:49",
+      "concluido": "2026-02-26T06:03:00",
+      "dias": 0.8284722222222222,
+      "dentro48": true
+    },
+    {
+      "assunto": "Distrato PJ 2026 - 60.332.857 FELIPE BALIEIRO DE ALMEIDA",
+      "categoria": "Prestador PJ",
+      "status": "Anulado",
+      "enviado": "2026-02-25T09:57:51",
+      "concluido": null,
+      "dias": null,
+      "dentro48": false
+    },
+    {
+      "assunto": "MODELO Acordo_Agente__Comercial_MeuChapa_Rodrigo Bacelar",
+      "categoria": "Agente Comercial",
+      "status": "Concluído",
+      "enviado": "2026-02-25T09:26:46",
+      "concluido": "2026-02-26T06:31:08",
+      "dias": 0.8784722222222222,
+      "dentro48": true
+    },
+    {
+      "assunto": "ELEMOVI COMERCIO & IMPORTACAO LTDA, Proposta comercial.pdf",
+      "categoria": "Cliente",
+      "status": "Concluído",
+      "enviado": "2026-02-25T02:42:58",
+      "concluido": "2026-02-27T08:51:21",
+      "dias": 2.25625,
+      "dentro48": false
+    },
+    {
+      "assunto": "Distrato PJ 2026 - 58.612.123 DIMAS MONEGO MOREIRA",
+      "categoria": "Prestador PJ",
+      "status": "Concluído",
+      "enviado": "2026-02-19T16:12:33",
+      "concluido": "2026-02-25T08:55:30",
+      "dias": 5.696527777777778,
+      "dentro48": false
+    },
+    {
+      "assunto": "59.472.411 EMANUELLE RAVELLI DA SILVA MOCO",
+      "categoria": "Prestador PJ",
+      "status": "Concluído",
+      "enviado": "2026-02-19T11:24:51",
+      "concluido": "2026-02-25T08:55:58",
+      "dias": 5.897222222222222,
+      "dentro48": false
+    },
+    {
+      "assunto": "61.601.132 INGRID RAQUEL RODRIGUES NEIVA, Carta oferta_Ingri...",
+      "categoria": "Prestador PJ",
+      "status": "Concluído",
+      "enviado": "2026-02-19T10:42:20",
+      "concluido": "2026-02-23T10:18:51",
+      "dias": 3.984027777777778,
+      "dentro48": false
+    },
+    {
+      "assunto": "61.601.132 INGRID RAQUEL RODRIGUES NEIVA, Carta oferta_Ingri...",
+      "categoria": "Prestador PJ",
+      "status": "Anulado",
+      "enviado": "2026-02-18T09:12:27",
+      "concluido": null,
+      "dias": null,
+      "dentro48": false
+    },
+    {
+      "assunto": "NDA - MCP _TRANSLUTE",
+      "categoria": "Cliente",
+      "status": "Enviado",
+      "enviado": "2026-02-13T11:30:48",
+      "concluido": null,
+      "dias": null,
+      "dentro48": false
+    },
+    {
+      "assunto": "53.403.996 JAKELINE APARECIDA DE CAMARGO ROMA",
+      "categoria": "Prestador PJ",
+      "status": "Concluído",
+      "enviado": "2026-02-13T11:06:42",
+      "concluido": "2026-02-24T04:36:49",
+      "dias": 10.729861111111111,
+      "dentro48": false
+    },
+    {
+      "assunto": "64.077.736 JACKSON AMORIM DOS SANTOS",
+      "categoria": "Prestador PJ",
+      "status": "Concluído",
+      "enviado": "2026-02-13T11:02:17",
+      "concluido": "2026-02-24T05:24:15",
+      "dias": 10.765277777777778,
+      "dentro48": false
+    },
+    {
+      "assunto": "64.077.736 JACKSON AMORIM DOS SANTOS",
+      "categoria": "Prestador PJ",
+      "status": "Anulado",
+      "enviado": "2026-02-13T08:14:07",
+      "concluido": null,
+      "dias": null,
+      "dentro48": false
+    },
+    {
+      "assunto": "63.232.024 NAYARA PONCO SILVA",
+      "categoria": "Prestador PJ",
+      "status": "Concluído",
+      "enviado": "2026-02-13T08:13:30",
+      "concluido": "2026-02-24T09:35:37",
+      "dias": 11.057638888888889,
+      "dentro48": false
+    },
+    {
+      "assunto": "63.076.716 LUCAS VELOSO GOMEZ",
+      "categoria": "Prestador PJ",
+      "status": "Concluído",
+      "enviado": "2026-02-13T08:12:57",
+      "concluido": "2026-02-24T05:25:21",
+      "dias": 10.884027777777778,
+      "dentro48": false
+    },
+    {
+      "assunto": "52.822.197 ELISEU RODRIGUES DE SOUZA",
+      "categoria": "Prestador PJ",
+      "status": "Concluído",
+      "enviado": "2026-02-13T08:12:05",
+      "concluido": "2026-02-24T08:21:58",
+      "dias": 11.006944444444445,
+      "dentro48": false
+    },
+    {
+      "assunto": "60.086.158 VITOR HUGO DA SILVA HUEWES",
+      "categoria": "Prestador PJ",
+      "status": "Concluído",
+      "enviado": "2026-02-13T08:11:30",
+      "concluido": "2026-02-19T11:17:57",
+      "dias": 6.129861111111111,
+      "dentro48": false
+    },
+    {
+      "assunto": "60.332.857 FELIPE BALIEIRO DE ALMEIDA",
+      "categoria": "Prestador PJ",
+      "status": "Concluído",
+      "enviado": "2026-02-13T08:11:00",
+      "concluido": "2026-02-24T05:21:14",
+      "dias": 10.88263888888889,
+      "dentro48": false
+    },
+    {
+      "assunto": "59.979.345 ANA VITORIA DOS SANTOS RAMOS",
+      "categoria": "Prestador PJ",
+      "status": "Concluído",
+      "enviado": "2026-02-13T08:10:30",
+      "concluido": "2026-02-24T04:24:20",
+      "dias": 10.843055555555557,
+      "dentro48": false
+    },
+    {
+      "assunto": "62.469.169 LARISSA MAMI HIEDA",
+      "categoria": "Prestador PJ",
+      "status": "Concluído",
+      "enviado": "2026-02-13T08:09:56",
+      "concluido": "2026-02-19T11:20:22",
+      "dias": 6.132638888888889,
+      "dentro48": false
+    },
+    {
+      "assunto": "60.794.315 ALICE JULYANA ANDRADE DO NASCIMENTO",
+      "categoria": "Prestador PJ",
+      "status": "Concluído",
+      "enviado": "2026-02-13T08:09:02",
+      "concluido": "2026-02-24T05:24:48",
+      "dias": 10.886111111111111,
+      "dentro48": false
+    },
+    {
+      "assunto": "60.750.945 SABRINA RIBEIRO DOS SANTOS",
+      "categoria": "Prestador PJ",
+      "status": "Concluído",
+      "enviado": "2026-02-13T08:08:31",
+      "concluido": "2026-02-24T06:31:28",
+      "dias": 10.932638888888889,
+      "dentro48": false
+    },
+    {
+      "assunto": "60.725.053 WILLIAM AUGUSTO SILVA OLIVEIRA",
+      "categoria": "Prestador PJ",
+      "status": "Concluído",
+      "enviado": "2026-02-13T08:07:55",
+      "concluido": "2026-02-24T05:27:15",
+      "dias": 10.88888888888889,
+      "dentro48": false
+    },
+    {
+      "assunto": "61.349.285 HILARY VITORIA AMARAL DOS SANTOS",
+      "categoria": "Prestador PJ",
+      "status": "Concluído",
+      "enviado": "2026-02-13T08:07:14",
+      "concluido": "2026-02-24T05:19:03",
+      "dias": 10.883333333333333,
+      "dentro48": false
+    },
+    {
+      "assunto": "56.089.186 KARLA NOGUEIRA FERNANDES MARTINS",
+      "categoria": "Prestador PJ",
+      "status": "Concluído",
+      "enviado": "2026-02-13T08:00:02",
+      "concluido": "2026-02-24T05:20:43",
+      "dias": 10.889583333333333,
+      "dentro48": false
+    },
+    {
+      "assunto": "62.269.712 GEOVANA CRISTINA MARANGONI CAUZZO",
+      "categoria": "Prestador PJ",
+      "status": "Concluído",
+      "enviado": "2026-02-13T07:59:16",
+      "concluido": "2026-02-23T12:10:37",
+      "dias": 10.174999999999999,
+      "dentro48": false
+    },
+    {
+      "assunto": "62.614.247 GUILHERME HENRIQUE DUTRA DA SILVA",
+      "categoria": "Prestador PJ",
+      "status": "Concluído",
+      "enviado": "2026-02-13T07:58:41",
+      "concluido": "2026-02-24T05:19:36",
+      "dias": 10.889583333333333,
+      "dentro48": false
+    },
+    {
+      "assunto": "62.498.056 SAMARA DE ANDRADE BATISTA",
+      "categoria": "Prestador PJ",
+      "status": "Concluído",
+      "enviado": "2026-02-13T07:58:06",
+      "concluido": "2026-02-24T05:31:53",
+      "dias": 10.89861111111111,
+      "dentro48": false
+    },
+    {
+      "assunto": "59.472.411 EMANUELLE RAVELLI DA SILVA MOCO",
+      "categoria": "Prestador PJ",
+      "status": "Anulado",
+      "enviado": "2026-02-13T07:57:30",
+      "concluido": null,
+      "dias": null,
+      "dentro48": false
+    },
+    {
+      "assunto": "50.630.010-9 NATHAN FAUSTINO",
+      "categoria": "Prestador PJ",
+      "status": "Concluído",
+      "enviado": "2026-02-13T07:57:00",
+      "concluido": "2026-02-23T11:25:19",
+      "dias": 10.145138888888889,
+      "dentro48": false
+    },
+    {
+      "assunto": "58.599.817 DEBORA CRISTINA DOS SANTOS",
+      "categoria": "Prestador PJ",
+      "status": "Concluído",
+      "enviado": "2026-02-13T07:47:52",
+      "concluido": "2026-02-19T11:29:04",
+      "dias": 6.154166666666667,
+      "dentro48": false
+    },
+    {
+      "assunto": "37.988.190 HUGO CABRAL PAIVA",
+      "categoria": "Prestador PJ",
+      "status": "Concluído",
+      "enviado": "2026-02-13T07:47:04",
+      "concluido": "2026-02-19T11:30:01",
+      "dias": 6.154861111111111,
+      "dentro48": false
+    },
+    {
+      "assunto": "63.232.024 NAYARA PONCO SILVA",
+      "categoria": "Prestador PJ",
+      "status": "Concluído",
+      "enviado": "2026-02-13T07:41:31",
+      "concluido": "2026-02-24T04:29:36",
+      "dias": 10.867361111111112,
+      "dentro48": false
+    },
+    {
+      "assunto": "59.038.055 ALANA DA SILVA MATA",
+      "categoria": "Prestador PJ",
+      "status": "Concluído",
+      "enviado": "2026-02-13T07:41:05",
+      "concluido": "2026-02-24T05:21:58",
+      "dias": 10.903472222222222,
+      "dentro48": false
+    },
+    {
+      "assunto": "ISAAC DE OLIVEIRA GUERRA 49767228802",
+      "categoria": "Prestador PJ",
+      "status": "Concluído",
+      "enviado": "2026-02-13T07:40:29",
+      "concluido": "2026-02-24T05:22:38",
+      "dias": 10.904861111111112,
+      "dentro48": false
+    },
+    {
+      "assunto": "57.254.001 GABRIEL RAFAEL PESTANA",
+      "categoria": "Prestador PJ",
+      "status": "Concluído",
+      "enviado": "2026-02-13T07:40:04",
+      "concluido": "2026-02-24T05:27:45",
+      "dias": 10.908333333333333,
+      "dentro48": false
+    },
+    {
+      "assunto": "LUANA COLTRE PLACIDINO",
+      "categoria": "Prestador PJ",
+      "status": "Concluído",
+      "enviado": "2026-02-13T07:39:39",
+      "concluido": "2026-02-26T03:25:29",
+      "dias": 12.823611111111111,
+      "dentro48": false
+    },
+    {
+      "assunto": "55.538.439 AELITON RABELO DE MORAIS JUNIOR",
+      "categoria": "Prestador PJ",
+      "status": "Concluído",
+      "enviado": "2026-02-13T07:39:17",
+      "concluido": "2026-02-24T05:30:49",
+      "dias": 10.911111111111111,
+      "dentro48": false
+    },
+    {
+      "assunto": "55.579.679 ALANIS MUNIZ SANTANA",
+      "categoria": "Prestador PJ",
+      "status": "Concluído",
+      "enviado": "2026-02-13T07:38:40",
+      "concluido": "2026-02-24T05:28:18",
+      "dias": 10.909722222222221,
+      "dentro48": false
+    },
+    {
+      "assunto": "GABRIELA CHAD MACHADO 47879894802",
+      "categoria": "Prestador PJ",
+      "status": "Concluído",
+      "enviado": "2026-02-13T07:38:15",
+      "concluido": "2026-02-26T11:08:16",
+      "dias": 13.146527777777777,
+      "dentro48": false
+    },
+    {
+      "assunto": "54.817.033 LUAN ALVES DE LIMA",
+      "categoria": "Prestador PJ",
+      "status": "Concluído",
+      "enviado": "2026-02-13T07:37:31",
+      "concluido": "2026-02-24T05:23:11",
+      "dias": 10.906944444444445,
+      "dentro48": false
+    },
+    {
+      "assunto": "54.189.887 GIOVANNA NEVES DE AGUIAR,",
+      "categoria": "Prestador PJ",
+      "status": "Concluído",
+      "enviado": "2026-02-13T07:37:10",
+      "concluido": "2026-02-24T05:31:18",
+      "dias": 10.913194444444445,
+      "dentro48": false
+    },
+    {
+      "assunto": "53.316.086 VITOR DOS SANTOS",
+      "categoria": "Prestador PJ",
+      "status": "Concluído",
+      "enviado": "2026-02-13T07:36:48",
+      "concluido": "2026-02-24T02:08:58",
+      "dias": 10.772916666666667,
+      "dentro48": false
+    },
+    {
+      "assunto": "53.171.947 JOAO PEDRO MACHADO BOCCALETTI ERBOLATO",
+      "categoria": "Prestador PJ",
+      "status": "Concluído",
+      "enviado": "2026-02-13T07:36:29",
+      "concluido": "2026-02-26T09:36:12",
+      "dias": 13.083333333333334,
+      "dentro48": false
+    },
+    {
+      "assunto": "FERNANDA OVANDO OVIEDO LTDA",
+      "categoria": "Prestador PJ",
+      "status": "Concluído",
+      "enviado": "2026-02-13T07:36:05",
+      "concluido": "2026-02-19T11:40:45",
+      "dias": 6.170138888888889,
+      "dentro48": false
+    },
+    {
+      "assunto": "Bruno Afonso de Oliveira",
+      "categoria": "Prestador PJ",
+      "status": "Concluído",
+      "enviado": "2026-02-13T07:35:34",
+      "concluido": "2026-02-19T11:41:44",
+      "dias": 6.171527777777778,
+      "dentro48": false
+    },
+    {
+      "assunto": "61.354.819 LEONARDO AUGUSTO PATRO FERREIRA",
+      "categoria": "Prestador PJ",
+      "status": "Concluído",
+      "enviado": "2026-02-13T07:35:13",
+      "concluido": "2026-02-16T03:41:35",
+      "dias": 2.8381944444444445,
+      "dentro48": false
+    },
+    {
+      "assunto": "55.023.929 WANDERLEI DE SOUZA SOBRINHO",
+      "categoria": "Prestador PJ",
+      "status": "Concluído",
+      "enviado": "2026-02-13T07:34:33",
+      "concluido": "2026-02-16T03:47:34",
+      "dias": 2.843055555555556,
+      "dentro48": false
+    },
+    {
+      "assunto": "ISABELA DOS SANTOS CAMPOS",
+      "categoria": "Prestador PJ",
+      "status": "Concluído",
+      "enviado": "2026-02-13T07:33:43",
+      "concluido": "2026-02-23T12:31:13",
+      "dias": 10.206944444444444,
+      "dentro48": false
+    },
+    {
+      "assunto": "Arlindo Figueiredo Mendonça Junior",
+      "categoria": "Prestador PJ",
+      "status": "Concluído",
+      "enviado": "2026-02-13T05:59:49",
+      "concluido": "2026-02-19T11:11:57",
+      "dias": 6.217361111111111,
+      "dentro48": false
+    },
+    {
+      "assunto": "Arlindo Figueiredo Mendonça Junior",
+      "categoria": "Prestador PJ",
+      "status": "Anulado",
+      "enviado": "2026-02-13T05:55:34",
+      "concluido": null,
+      "dias": null,
+      "dentro48": false
+    },
+    {
+      "assunto": "Distrato PJ 2026 - 58.612.123 DIMAS MONEGO MOREIRA",
+      "categoria": "Prestador PJ",
+      "status": "Anulado",
+      "enviado": "2026-02-11T07:03:41",
+      "concluido": null,
+      "dias": null,
+      "dentro48": false
+    },
+    {
+      "assunto": "D.F LEITE SERVICOS ADMINISTRATIVOS LTDA, Carta ofert...",
+      "categoria": "Prestador PJ",
+      "status": "Concluído",
+      "enviado": "2026-02-04T11:33:03",
+      "concluido": "2026-02-13T05:12:42",
+      "dias": 8.736111111111112,
+      "dentro48": false
+    },
+    {
+      "assunto": "D.F LEITE SERVICOS ADMINISTRATIVOS LTDA, Carta ofert...",
+      "categoria": "Prestador PJ",
+      "status": "Anulado",
+      "enviado": "2026-02-04T02:54:54",
+      "concluido": null,
+      "dias": null,
+      "dentro48": false
+    },
+    {
+      "assunto": "GOIAS DISTRIBUIDORA DE ACUMULADORES LTDA, Proposta MeuChapa...",
+      "categoria": "Cliente",
+      "status": "Concluído",
+      "enviado": "2026-02-02T07:00:10",
+      "concluido": "2026-02-09T06:41:24",
+      "dias": 6.9875,
+      "dentro48": false
+    },
+    {
+      "assunto": "SILVANO FONTANA SERVICOS ADMINISTRATIVOS LTDA, Carta...",
+      "categoria": "Prestador PJ",
+      "status": "Concluído",
+      "enviado": "2026-01-30T10:16:43",
+      "concluido": "2026-02-04T07:17:21",
+      "dias": 4.875694444444444,
+      "dentro48": false
+    },
+    {
+      "assunto": "BELO JARDIM COMERCIAL DE BATERIAS LTDA, Proposta MeuChapa -...",
+      "categoria": "Cliente",
+      "status": "Anulado",
+      "enviado": "2026-01-29T02:39:28",
+      "concluido": null,
+      "dias": null,
+      "dentro48": false
+    },
+    {
+      "assunto": "LUANA PATRICIA DE OLIVEIRA MOURA",
+      "categoria": "Prestador PJ",
+      "status": "Concluído",
+      "enviado": "2026-01-28T13:31:32",
+      "concluido": "2026-02-02T09:03:08",
+      "dias": 4.813888888888889,
+      "dentro48": false
+    },
+    {
+      "assunto": "QUESTIONÁRIO DE HOMOLOGAÇÃO DE FORNECEDOR",
+      "categoria": "Cliente",
+      "status": "Concluído",
+      "enviado": "2026-01-28T06:44:08",
+      "concluido": "2026-01-28T09:40:00",
+      "dias": 0.12222222222222222,
+      "dentro48": true
+    },
+    {
+      "assunto": "64.332.043 ELIDIANY SODRE NASCIMENTO",
+      "categoria": "Prestador PJ",
+      "status": "Concluído",
+      "enviado": "2026-01-27T08:10:09",
+      "concluido": "2026-02-02T09:03:25",
+      "dias": 6.0375,
+      "dentro48": false
+    },
+    {
+      "assunto": "38.430.817 WALLACE SILVA ARAUJO",
+      "categoria": "Prestador PJ",
+      "status": "Concluído",
+      "enviado": "2026-01-27T08:05:15",
+      "concluido": "2026-02-02T09:02:50",
+      "dias": 6.040277777777778,
+      "dentro48": false
+    },
+    {
+      "assunto": "Cotação CYBER - Meu Chapa - ZURICH - Preenchido Atualizado (1).pdf",
+      "categoria": "Seguros",
+      "status": "Concluído",
+      "enviado": "2026-01-27T08:03:13",
+      "concluido": "2026-01-28T12:52:33",
+      "dias": 1.201388888888889,
+      "dentro48": true
+    },
+    {
+      "assunto": "TNK TECHNIQUES DO BRASIL INDUSTRIA LTDA, Proposta MeuChapa ...",
+      "categoria": "Cliente",
+      "status": "Concluído",
+      "enviado": "2026-01-15T02:16:46",
+      "concluido": "2026-02-05T11:25:07",
+      "dias": 21.38125,
+      "dentro48": false
+    },
+    {
+      "assunto": "REGISTRO -IRMAOS LOUREIRO LOG LTDA, Proposta MeuChapa - Irm...",
+      "categoria": "Cliente",
+      "status": "Concluído",
+      "enviado": "2026-01-15T01:59:27",
+      "concluido": "2026-01-28T10:10:23",
+      "dias": 13.340972222222224,
+      "dentro48": false
+    },
+    {
+      "assunto": "IRMAOS LOUREIRO LOG LTDA, Proposta MeuChapa - Irmãos Loureiro.pdf",
+      "categoria": "Cliente",
+      "status": "Concluído",
+      "enviado": "2026-01-15T01:51:28",
+      "concluido": "2026-02-04T07:16:43",
+      "dias": 20.226388888888888,
+      "dentro48": false
+    },
+    {
+      "assunto": "Código de Conduta PT-BR.pdf",
+      "categoria": "Cliente",
+      "status": "Concluído",
+      "enviado": "2026-01-13T04:14:56",
+      "concluido": "2026-01-13T06:56:46",
+      "dias": 0.11249999999999999,
+      "dentro48": true
+    },
+    {
+      "assunto": "64.344.196 ERIC BATISTA DOS SANTOS",
+      "categoria": "Prestador PJ",
+      "status": "Concluído",
+      "enviado": "2026-01-08T09:47:07",
+      "concluido": "2026-02-02T09:04:11",
+      "dias": 24.97083333333333,
+      "dentro48": false
+    },
+    {
+      "assunto": "63.556.002 PEDRO PEREIRA SANTOS JUNIOR",
+      "categoria": "Prestador PJ",
+      "status": "Anulado",
+      "enviado": "2026-01-07T11:43:01",
+      "concluido": null,
+      "dias": null,
+      "dentro48": false
+    },
+    {
+      "assunto": "49.653.859 VICTORIA CASSIA DA SILVA",
+      "categoria": "Prestador PJ",
+      "status": "Concluído",
+      "enviado": "2026-01-05T11:14:10",
+      "concluido": "2026-01-06T17:29:07",
+      "dias": 1.2604166666666667,
+      "dentro48": true
+    }
+  ]
+}
